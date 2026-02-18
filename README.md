@@ -1,4 +1,4 @@
-# Library App (Breadcrumb Challenge)
+# Library App (1Breadcrumb Challenge)
 
 Full-stack sample for a simple library inventory system. The backend is a .NET 8 Web API with MediatR + FluentValidation, and the frontend is a React + Vite + TypeScript app.
 
